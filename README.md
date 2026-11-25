@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm MD RUHUL AMIN 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Web+Engineering+Student+in+Tokyo;HTML+%7C+CSS+%7C+JavaScript;Creator+of+Japan+Food+Guide" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Web+Engineering+Student+in+Tokyo;HTML+%7C+CSS+%7C+JavaScript" alt="Typing animation" />
 </p>
 
 ## 👨‍💻 About Me
