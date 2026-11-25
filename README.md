@@ -8,8 +8,6 @@
 
 - 🎓 Studying **Web Engineering** at Tokyo Multimedia College, Japan
 - 🌏 Based in **Tokyo, Japan**
-- 🍜 Creator of **Japan Food Guide** — a Japanese food culture site in 8 languages
-- 📸 Built a Tokyo DisneySea photo tour gallery
 - 🌱 Currently learning modern JavaScript and responsive web design
 
 ## 🛠️ Tech Stack
