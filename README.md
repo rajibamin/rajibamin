@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm MD Ruhul Amin (Rajib) 👋</h1>
+<h1 align="center">Hi there, I'm MD RUHUL AMIN 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Web+Engineering+Student+in+Tokyo;HTML+%7C+CSS+%7C+JavaScript;Creator+of+Japan+Food+Guide" alt="Typing animation" />
@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajibamin&show_icons=true&theme=tokyonight" alt="Rajib's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajibamin&show_icons=true&theme=tokyonight" alt="MD RUHUL AMIN's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibamin&layout=compact&theme=tokyonight" alt="Top languages" />
